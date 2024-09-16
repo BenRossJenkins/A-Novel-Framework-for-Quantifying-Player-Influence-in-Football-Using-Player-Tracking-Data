@@ -29,10 +29,3 @@ Moreover, the metric exhibits strong stability over time, as indicated by a pers
 ## Conclusion
 The player influence metric offers a comprehensive and stable framework for evaluating defensive effectiveness. Its strong correlation with tackles, both overall and by position, makes it a valuable tool for coaches and analysts. By integrating key aspects of player positioning, speed, and orientation, this metric provides a more detailed understanding of defensive dynamics, aiding strategic decisions in team management and player development.
 
-## Figures
-1. **Scatter Plot**: Cumulative player influence vs. number of tackles, segmented by player position.
-2. **Scatter Plot**: Player influence comparison between weeks 1-4 and weeks 5-8, illustrating the metric's stability.
-
----
-
-Feel free to include any additional details, references, or data sources in your README as needed. This structure provides a clear overview of the project, the methods used, and the key findings in a format suitable for a GitHub repository.
