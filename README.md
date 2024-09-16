@@ -19,7 +19,7 @@ Where:
 - **\(v_{\text{max}}\)**: Maximum possible speed, adjusted to 9.3 - 9.5 yards/sec to reflect the top speeds of elite NFL players.
 - **\(\theta_i\)**: The difference between the player's direction and the ball carrier's direction.
 
-This model was applied to the [NFL Big Data Bowl 2024 dataset](https://www.kaggle.com/competitions/nfl-big-data-bowl-2024), covering weeks 1-8 of the season. We then assessed player influence against the number of tackles for validation, analyzing the relationship across all players and by position to confirm the metric's consistency.
+This model was applied to the [NFL Big Data Bowl 2024 dataset](https://www.kaggle.com/competitions/nfl-big-data-bowl-2024), covering weeks 1-8 of the 2022 season. We then assessed player influence against the number of tackles for validation, analyzing the relationship across all players and by position to confirm the metric's consistency.
 
 ## Results
 Our analysis reveals a strong correlation (R² = 0.63) between cumulative player influence and the number of tackles across all positions, demonstrating that the metric effectively captures defensive impact. Positional analysis shows that this correlation is consistently high (R² > 0.55 for most positions), lending additional validity to the metric. 
